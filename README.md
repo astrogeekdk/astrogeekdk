@@ -3,10 +3,8 @@ Hey there! I am a Computer Science undergrad obsessed with space technology, roc
 Here are some of my cool projects:
 
 1. [Physics based Rocket Launch Simulator](https://github.com/astrogeekdk/Rocket-Launch-Simulator)
-![Rocket Launch Simulator](https://raw.githubusercontent.com/astrogeekdk/Rocket-Launch-Simulator/refs/heads/main/simulator.png)
 
 2. [Exoplanet Night Sky Simulator](https://github.com/astrogeekdk/stellargaze)
-![Stellargaze](https://raw.githubusercontent.com/astrogeekdk/stellargaze/refs/heads/main/stellargaze.png)
 
 3. [Satellite Telemetry Simulator implemented using UDP protocol and Hamming Error Correction](https://github.com/astrogeekdk/Satellite-Telemetry)
 
